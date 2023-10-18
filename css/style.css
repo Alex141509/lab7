@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: blue;
+  background-color: rgb(39, 224, 196);
   overflow: hidden;
 }
 
@@ -28,7 +28,7 @@
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
-  color: #fff;
+  color: #e71717;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@
 #sidebar {
   position: fixed;
   right: 0%;
-  background-color: red;
+  background-color: rgb(123, 8, 151);
   height: 100%;
   width: 20%;
 }
